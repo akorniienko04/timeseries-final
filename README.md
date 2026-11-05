@@ -54,6 +54,6 @@ interval calibrated on the first 20.
 
 I used Claude (Anthropic) for:
 
-- `make_slides.py`, `README.md` and `talk_notes_uk.md`;
+- `make_slides.py`, `README.md`
 - `forecast.py`, to check the structure of the code and format it correctly;
 - `report.ipynb`, to make the text cells clear and grammatically correct, and to check that the code is correct.
